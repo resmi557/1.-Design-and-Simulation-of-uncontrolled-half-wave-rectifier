@@ -7,7 +7,6 @@ To design and simulate Half wave rectifier (Uncontrolled) in MATLAB Simulink.
 1.	Open MATLAB and click on the icon for SIMULINK as shown below
    <img width="685" height="536" alt="image" src="https://github.com/user-attachments/assets/e7351866-9cbf-4432-83e1-20a44624721c" />
 Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Library  browser. 
-
 2.	Click on NEW MODEL or go to FILE ⇒ NEW ⇒ MODEL and a new blank model is created as shown below
 <img width="796" height="542" alt="image" src="https://github.com/user-attachments/assets/3a48e8fc-77b9-4e06-88d9-e2236d732696" />
 3.	After creating a blank model you need to open the SIMULINK component storeroom/library by going to View ⇒ Library Browser. Select SIMPOWER SYSTEMS then select Power Electronics library and by right clicking on diode and click on add to the model will add the diode in the blank model. Alternatively you can drag the component directly in the model page as shown below
